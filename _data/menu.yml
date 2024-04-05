@@ -11,6 +11,8 @@ entries:
         url: https://www.linkedin.com/in/bruceesplago/
       - title: email
         url: mailto:bruce_esplago@hotmail.com
+      - title: instagram
+        url: https://www.instagram.com/besplago/
 
   - title: projects
     post_list: true
