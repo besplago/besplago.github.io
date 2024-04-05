@@ -17,16 +17,16 @@ entries:
     url: false
     entries: false
 
-  - title: rss
-    url: feed.xml
+  # - title: rss
+  #   url: feed.xml
   
-  - title: another list
-    url: false
-    entries:
-      - title: with subitems
-        url: false
-        entries:
-          - title: with subsubitems
-            url: false
-          - title: example page
-            url: about
+  # - title: another list
+  #   url: false
+  #   entries:
+  #     - title: with subitems
+  #       url: false
+  #       entries:
+  #         - title: with subsubitems
+  #           url: false
+  #         - title: example page
+  #           url: about
