@@ -1,7 +1,6 @@
 title: besplago # name of the site
 author: Bruce Esplago # name of site's author
 email: bruce_esplago@hotmail.com # email of site's author
-# url: https://github.com/besplago/besplago.github.io # root address of the site
 url: https://besplago.github.io/ # root address of the site
 description: > # description of the site (multiple lines allowed)
   My portfolio site
