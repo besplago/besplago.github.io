@@ -1,6 +1,9 @@
 ---
 layout: post
-title: "House Price Estimation with Machine Learning (master's thesis)"
+title: "High School Basketball Manager"
 ---
 
 (Work in progress)
+
+---
+{: data-content="Slam Dunk, chapter 276"}
