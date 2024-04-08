@@ -13,6 +13,8 @@ For my bachelor's project in computer science at the University of Copenhagen, I
 
 The game features a static pathfinding system that calculates the shortest path between provinces based on the distance between them. The system does not take into account factors such as terrain, fortresses, and hostile armies, which can affect the time it takes to travel between provinces. The goal of this project was to develop a dynamic pathfinding system that takes these factors into account and provides more accurate and realistic paths for the player to follow.
 
+The project was implemented using Python.
+
 The full [report](https://github.com/besplago/besplago.github.io/blob/main/_files/eu4_report.pdf) (in Danish).
 
 ---
