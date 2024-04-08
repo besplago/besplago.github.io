@@ -6,4 +6,4 @@ title: "Mafia Card Game Calculator"
 (Work in progress)
 
 ---
-{: data-content="\"Leave the gun, take the cannoli.\" -Clemenza"}
+{: data-content="100% Gangsta Brazil"}
