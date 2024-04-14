@@ -1,9 +1,7 @@
 ---
 layout: post
-title: "Godot MMORPG Test"
+title: "Godot Multiplayer Test"
 ---
-
-No, I'm not trying to make an MMORPG.
 
 I have an idea for a multiplayer game that I wanted to make in Godot, yet I had no experience doing
 any networking. Therefore, I decided to make a simple peer-to-peer multiplayer test to get a feel
