@@ -12,7 +12,7 @@ for how it works.
 
 I played around with both peer-to-peer and server-client multiplayer, though I later found out that
 a server-client model is more suitable for my game idea, as figuring out how to prevent cheating in
-a peer-to-peer model is quite difficult.
+a peer-to-peer model is quite difficult, which for this game is important.
 
 ![Peer-To-Peer Multiplayer Test](/assets/images/peer-to-peer-multiplayer-test-2.png)
 *Both players attacking a monster and it being synchronized.*
